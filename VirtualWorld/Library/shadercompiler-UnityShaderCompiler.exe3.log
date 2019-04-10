@@ -1,0 +1,4 @@
+Base path: D:/Programy/Unity 3D/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=3273 outsize=2253 ok=1
